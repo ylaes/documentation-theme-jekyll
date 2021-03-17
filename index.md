@@ -396,7 +396,7 @@ When you want to insert paragraphs, notes, code snippets, or other matter in bet
 
 2.  Second item
 
-    Some pig!
+    Some pigs!
 
 3.  Third item
 ```
